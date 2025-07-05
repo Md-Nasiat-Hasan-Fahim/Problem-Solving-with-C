@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 142 (Rated for Div. 2)\\D. Fixed Prefix Permutations\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Fixed Prefix Permutations",
+      "group": "Codeforces - Educational Codeforces Round 142 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1792/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

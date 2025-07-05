@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Restoring Middle Earth\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Restoring Middle Earth",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/restoring-middle-earth",
+      "memoryLimit": 64,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Educational DP Contest\\H - Grid 1\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H - Grid 1",
+      "group": "AtCoder - Educational DP Contest",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_h",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

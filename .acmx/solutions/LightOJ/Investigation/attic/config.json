@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Investigation\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Investigation",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/investigation",
+      "memoryLimit": 64,
+      "timeLimit": 2000
+    }
+  }
+}

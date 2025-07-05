@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 867 (Div. 3)\\F. Gardening Friends\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Gardening Friends",
+      "group": "Codeforces - Codeforces Round 867 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1822/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

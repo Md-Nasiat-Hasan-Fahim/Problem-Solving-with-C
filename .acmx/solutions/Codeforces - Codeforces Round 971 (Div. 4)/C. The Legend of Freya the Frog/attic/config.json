@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 971 (Div. 4)\\C. The Legend of Freya the Frog\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. The Legend of Freya the Frog",
+      "group": "Codeforces - Codeforces Round 971 (Div. 4)",
+      "url": "https://codeforces.com/problemset/problem/2009/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

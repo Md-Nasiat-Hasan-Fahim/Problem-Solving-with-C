@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 835 (Div. 4)\\F. Quests\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Quests",
+      "group": "Codeforces - Codeforces Round 835 (Div. 4)",
+      "url": "https://codeforces.com/problemset/problem/1760/F",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

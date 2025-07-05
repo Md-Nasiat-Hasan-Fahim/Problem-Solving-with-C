@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Educational DP Contest\\E - Knapsack 2\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Knapsack 2",
+      "group": "AtCoder - Educational DP Contest",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_e",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

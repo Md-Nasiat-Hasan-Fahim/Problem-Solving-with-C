@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Word Disaster\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Word Disaster",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/dimik-word-disaster",
+      "memoryLimit": 128,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,1 @@
+(x1, y1) &gt; (x2, y2) if and only if (x1 &gt; x2) or (x1 == x2 and y1 &lt; y2)

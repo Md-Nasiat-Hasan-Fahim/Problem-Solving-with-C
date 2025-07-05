@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 6 (Tree)\\C - Points in Segments (II)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C - Points in Segments (II)",
+      "group": "Virtual Judge - Marathon 6 (Tree)",
+      "url": "https://vjudge.net/contest/608252?fbclid=IwAR0e_bwakamzv2q9docR7EHDaztYO78kpTVvx-6_gIKGL-bFfr4GcHf2bqI#problem/C",
+      "memoryLimit": 64,
+      "timeLimit": 2000
+    }
+  }
+}

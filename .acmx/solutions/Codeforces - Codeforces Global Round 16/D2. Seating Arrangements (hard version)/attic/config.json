@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Global Round 16\\D2. Seating Arrangements (hard version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D2. Seating Arrangements (hard version)",
+      "group": "Codeforces - Codeforces Global Round 16",
+      "url": "https://codeforces.com/contest/1566/problem/D2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

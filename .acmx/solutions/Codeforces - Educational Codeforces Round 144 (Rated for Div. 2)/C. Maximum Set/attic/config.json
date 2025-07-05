@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 144 (Rated for Div. 2)\\C. Maximum Set\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Maximum Set",
+      "group": "Codeforces - Educational Codeforces Round 144 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1796/C",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

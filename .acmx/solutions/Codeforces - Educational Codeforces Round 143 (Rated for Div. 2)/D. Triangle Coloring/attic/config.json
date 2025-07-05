@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 143 (Rated for Div. 2)\\D. Triangle Coloring\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Triangle Coloring",
+      "group": "Codeforces - Educational Codeforces Round 143 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1795/D",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

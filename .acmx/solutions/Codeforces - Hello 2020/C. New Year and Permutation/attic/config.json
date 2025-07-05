@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Hello 2020\\C. New Year and Permutation\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. New Year and Permutation",
+      "group": "Codeforces - Hello 2020",
+      "url": "https://codeforces.com/problemset/problem/1284/C",
+      "memoryLimit": 1024,
+      "timeLimit": 1000
+    }
+  }
+}

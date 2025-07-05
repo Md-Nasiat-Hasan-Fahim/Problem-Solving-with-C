@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 116 (Rated for Div. 2)\\A. AB Balance\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. AB Balance",
+      "group": "Codeforces - Educational Codeforces Round 116 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1606/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 896 (Div. 1)\\B1. Candy Party (Easy Version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B1. Candy Party (Easy Version)",
+      "group": "Codeforces - Codeforces Round 896 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1868/B1",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

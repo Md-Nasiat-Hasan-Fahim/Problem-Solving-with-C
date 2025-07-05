@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 881 (Div. 3)\\E. Tracking Segments\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Tracking Segments",
+      "group": "Codeforces - Codeforces Round 881 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1843/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

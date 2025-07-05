@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Box 1\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Box 1",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/dimik-box-1",
+      "memoryLimit": 128,
+      "timeLimit": 1000
+    }
+  }
+}

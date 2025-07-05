@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - 3rd Marathon\\G - Task7\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G - Task7",
+      "group": "Virtual Judge - 3rd Marathon",
+      "url": "https://vjudge.net/contest/593332#problem/G",
+      "memoryLimit": 1536,
+      "timeLimit": 100
+    }
+  }
+}

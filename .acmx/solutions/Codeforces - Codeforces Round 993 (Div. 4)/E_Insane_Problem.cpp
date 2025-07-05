@@ -1,0 +1,40 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define FastIO ios_base::sync_with_stdio(false), cin.tie(0)
+#define endl '\n'
+#define int long long
+#define all(x) x.begin(),x.end()
+#define pb push_back
+#define YES cout<<"YES\n"
+#define NO cout<<"NO\n"
+#define check(x) cout << (#x) << " is " << (x) << endl;
+const int mod = 1e9+7;
+
+signed main()
+{
+    //freopen("","r+",stdin);
+    //freopen("","w+",stdout);
+    FastIO;
+    int Master0fTheSEA=1;
+    cin>>Master0fTheSEA;
+    for(int tttttttt=1;tttttttt<=Master0fTheSEA;tttttttt++)
+    {
+      int k,l1,r1,l2,r2;
+      cin>>k>>l1>>r1>>l2>>r2;
+      int mxx = 1e15;
+      int cnt = 0;
+      int ppl = k;
+      k=1;
+      for(;k<mxx;k=ppl*k)
+      {
+        int mn = max(l1,l2/k);
+        int mx = min(r1,r2/k);
+        cout<<k<<" "<<mx<<" "<<mn<<" "<<max(mx-mn+1,0LL)<<endl;
+        cnt += max(mx-mn+1,0LL);
+      }
+      cout<<cnt<<endl;
+    }
+    //cerr << "Time : " << 1000 * ((double)clock()) / (double)CLOCKS_PER_SEC <<   "ms\n";
+    return 0;
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Points in Segments (II)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Points in Segments (II)",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/points-in-segments-ii",
+      "memoryLimit": 64,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 830 (Div. 2)\\C1. Sheikh (Easy version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C1. Sheikh (Easy version)",
+      "group": "Codeforces - Codeforces Round 830 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1732/C1",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

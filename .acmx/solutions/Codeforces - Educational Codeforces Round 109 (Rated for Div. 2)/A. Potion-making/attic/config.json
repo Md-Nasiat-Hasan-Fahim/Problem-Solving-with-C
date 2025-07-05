@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)\\A. Potion-making\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Potion-making",
+      "group": "Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1525/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

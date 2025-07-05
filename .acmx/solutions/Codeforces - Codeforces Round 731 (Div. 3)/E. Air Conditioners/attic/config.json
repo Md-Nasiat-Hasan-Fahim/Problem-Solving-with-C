@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 731 (Div. 3)\\E. Air Conditioners\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Air Conditioners",
+      "group": "Codeforces - Codeforces Round 731 (Div. 3)",
+      "url": "https://codeforces.com/contest/1547/problem/E",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

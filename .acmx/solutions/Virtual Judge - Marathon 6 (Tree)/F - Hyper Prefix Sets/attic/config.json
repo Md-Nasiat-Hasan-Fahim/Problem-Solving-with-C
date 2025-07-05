@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 6 (Tree)\\F - Hyper Prefix Sets\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F - Hyper Prefix Sets",
+      "group": "Virtual Judge - Marathon 6 (Tree)",
+      "url": "https://vjudge.net/contest/608252#problem/F",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

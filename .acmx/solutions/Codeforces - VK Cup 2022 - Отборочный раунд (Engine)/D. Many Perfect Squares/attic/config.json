@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - VK Cup 2022 - Отборочный раунд (Engine)\\D. Many Perfect Squares\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Many Perfect Squares",
+      "group": "Codeforces - VK Cup 2022 - Отборочный раунд (Engine)",
+      "url": "https://codeforces.com/problemset/problem/1781/D",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

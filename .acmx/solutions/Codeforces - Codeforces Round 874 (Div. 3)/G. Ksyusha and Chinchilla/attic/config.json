@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 874 (Div. 3)\\G. Ksyusha and Chinchilla\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Ksyusha and Chinchilla",
+      "group": "Codeforces - Codeforces Round 874 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1833/G",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

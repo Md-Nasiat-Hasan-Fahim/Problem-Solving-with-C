@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - UNIQUE VISION Programming Contest 2024 Spring(AtCoder Beginner Contest 346)\\C - Σ\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C - Σ",
+      "group": "AtCoder - UNIQUE VISION Programming Contest 2024 Spring(AtCoder Beginner Contest 346)",
+      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_c",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

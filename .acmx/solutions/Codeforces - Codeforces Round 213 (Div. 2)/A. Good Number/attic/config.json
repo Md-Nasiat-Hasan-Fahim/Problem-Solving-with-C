@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 213 (Div. 2)\\A. Good Number\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Good Number",
+      "group": "Codeforces - Codeforces Round 213 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/365/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

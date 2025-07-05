@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 116 (Rated for Div. 2)\\B. Update Files\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Update Files",
+      "group": "Codeforces - Educational Codeforces Round 116 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1606/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

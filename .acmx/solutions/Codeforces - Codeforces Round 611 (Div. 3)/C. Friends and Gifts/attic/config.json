@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 611 (Div. 3)\\C. Friends and Gifts\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Friends and Gifts",
+      "group": "Codeforces - Codeforces Round 611 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1283/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

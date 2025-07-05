@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - TheForces Round #14 (Cool-Forces)\\C. Prefix Sum Array\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Prefix Sum Array",
+      "group": "Codeforces - TheForces Round #14 (Cool-Forces)",
+      "url": "https://codeforces.com/gym/104386/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 119 (Rated for Div. 2)\\C. BA-String\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. BA-String",
+      "group": "Codeforces - Educational Codeforces Round 119 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1620/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

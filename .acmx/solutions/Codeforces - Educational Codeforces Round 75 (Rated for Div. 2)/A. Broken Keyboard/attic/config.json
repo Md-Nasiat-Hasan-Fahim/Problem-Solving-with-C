@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 75 (Rated for Div. 2)\\A. Broken Keyboard\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Broken Keyboard",
+      "group": "Codeforces - Educational Codeforces Round 75 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1251/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

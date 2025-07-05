@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 115 (Rated for Div. 2)\\B. Groups\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Groups",
+      "group": "Codeforces - Educational Codeforces Round 115 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1598/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

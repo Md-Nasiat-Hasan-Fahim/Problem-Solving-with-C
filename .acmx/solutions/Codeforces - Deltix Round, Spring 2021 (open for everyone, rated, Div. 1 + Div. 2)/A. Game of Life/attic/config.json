@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)\\A. Game of Life\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Game of Life",
+      "group": "Codeforces - Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contest/1523/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

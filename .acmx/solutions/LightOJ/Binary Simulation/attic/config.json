@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Binary Simulation\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Binary Simulation",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/binary-simulation",
+      "memoryLimit": 64,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - TheForces Round #14 (Cool-Forces)\\A. Dungeon videogame\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Dungeon videogame",
+      "group": "Codeforces - TheForces Round #14 (Cool-Forces)",
+      "url": "https://codeforces.com/gym/104386/problem/0",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

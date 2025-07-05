@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - 3rd Marathon\\I - Task9\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "I - Task9",
+      "group": "Virtual Judge - 3rd Marathon",
+      "url": "https://vjudge.net/contest/593332#problem/I",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

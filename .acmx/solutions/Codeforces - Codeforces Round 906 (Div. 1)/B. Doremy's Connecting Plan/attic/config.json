@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 906 (Div. 1)\\B. Doremy's Connecting Plan\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Doremy's Connecting Plan",
+      "group": "Codeforces - Codeforces Round 906 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1889/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

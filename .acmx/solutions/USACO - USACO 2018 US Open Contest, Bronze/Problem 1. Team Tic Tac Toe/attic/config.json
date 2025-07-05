@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2018 US Open Contest, Bronze\\Problem 1. Team Tic Tac Toe\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 1. Team Tic Tac Toe",
+      "group": "USACO - USACO 2018 US Open Contest, Bronze",
+      "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=831",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

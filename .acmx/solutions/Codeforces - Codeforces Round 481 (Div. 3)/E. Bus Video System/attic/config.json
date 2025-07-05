@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 481 (Div. 3)\\E. Bus Video System\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Bus Video System",
+      "group": "Codeforces - Codeforces Round 481 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/978/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

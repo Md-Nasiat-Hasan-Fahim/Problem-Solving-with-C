@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 314\\B - Roulette\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B - Roulette",
+      "group": "AtCoder - AtCoder Beginner Contest 314",
+      "url": "https://atcoder.jp/contests/abc314/tasks/abc314_b",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 731 (Div. 3)\\B. Alphabetical Strings\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Alphabetical Strings",
+      "group": "Codeforces - Codeforces Round 731 (Div. 3)",
+      "url": "https://codeforces.com/contest/1547/problem/B",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

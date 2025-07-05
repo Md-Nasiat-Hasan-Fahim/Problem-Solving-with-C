@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Jane and the Frost Giants\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Jane and the Frost Giants",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/jane-and-the-frost-giants",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

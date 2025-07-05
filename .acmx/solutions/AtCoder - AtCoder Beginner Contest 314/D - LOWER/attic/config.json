@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 314\\D - LOWER\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - LOWER",
+      "group": "AtCoder - AtCoder Beginner Contest 314",
+      "url": "https://atcoder.jp/contests/abc314/tasks/abc314_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 888 (Div. 3)\\F. Lisa and the Martians\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Lisa and the Martians",
+      "group": "Codeforces - Codeforces Round 888 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1851/F",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

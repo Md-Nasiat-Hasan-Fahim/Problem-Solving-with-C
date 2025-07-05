@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Expanding Rods\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Expanding Rods",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/expanding-rods",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

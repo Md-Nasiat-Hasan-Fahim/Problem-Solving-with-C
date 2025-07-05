@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 114 (Rated for Div. 2)\\A. Regular Bracket Sequences\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Regular Bracket Sequences",
+      "group": "Codeforces - Educational Codeforces Round 114 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1574/problem/A",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

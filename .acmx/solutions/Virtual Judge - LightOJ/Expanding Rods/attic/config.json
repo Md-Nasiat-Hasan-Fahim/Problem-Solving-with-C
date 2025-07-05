@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - LightOJ\\Expanding Rods\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Expanding Rods",
+      "group": "Virtual Judge - LightOJ",
+      "url": "https://vjudge.net/problem/LightOJ-1137",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

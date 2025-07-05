@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)\\A. Weird Sum\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Weird Sum",
+      "group": "Codeforces - Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+      "url": "https://codeforces.com/contest/1648/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

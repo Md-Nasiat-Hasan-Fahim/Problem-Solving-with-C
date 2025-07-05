@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 146 (Rated for Div. 2)\\B. Long Legs\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Long Legs",
+      "group": "Codeforces - Educational Codeforces Round 146 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1814/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

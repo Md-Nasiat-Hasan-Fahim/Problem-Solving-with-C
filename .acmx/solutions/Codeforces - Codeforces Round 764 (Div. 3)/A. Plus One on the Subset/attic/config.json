@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 764 (Div. 3)\\A. Plus One on the Subset\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Plus One on the Subset",
+      "group": "Codeforces - Codeforces Round 764 (Div. 3)",
+      "url": "https://codeforces.com/contest/1624/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

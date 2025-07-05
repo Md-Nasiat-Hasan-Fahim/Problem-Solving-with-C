@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Panasonic Programming Contest 2024（AtCoder Beginner Contest 354）\\A - Exponential Plant\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - Exponential Plant",
+      "group": "AtCoder - Panasonic Programming Contest 2024（AtCoder Beginner Contest 354）",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

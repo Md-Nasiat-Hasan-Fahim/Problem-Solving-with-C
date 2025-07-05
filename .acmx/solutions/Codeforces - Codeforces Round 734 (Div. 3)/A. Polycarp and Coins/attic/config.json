@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 734 (Div. 3)\\A. Polycarp and Coins\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Polycarp and Coins",
+      "group": "Codeforces - Codeforces Round 734 (Div. 3)",
+      "url": "https://codeforces.com/contest/1551/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

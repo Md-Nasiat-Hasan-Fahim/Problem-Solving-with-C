@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 320 (Div. 1) [Bayan Thanks-Round]\\C. Weakness and Poorness\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Weakness and Poorness",
+      "group": "Codeforces - Codeforces Round 320 (Div. 1) [Bayan Thanks-Round]",
+      "url": "https://codeforces.com/problemset/problem/578/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

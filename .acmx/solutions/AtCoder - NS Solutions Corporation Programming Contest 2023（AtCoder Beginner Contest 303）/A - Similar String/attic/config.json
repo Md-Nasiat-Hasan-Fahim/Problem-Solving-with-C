@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - NS Solutions Corporation Programming Contest 2023（AtCoder Beginner Contest 303）\\A - Similar String\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - Similar String",
+      "group": "AtCoder - NS Solutions Corporation Programming Contest 2023（AtCoder Beginner Contest 303）",
+      "url": "https://atcoder.jp/contests/abc303/tasks/abc303_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

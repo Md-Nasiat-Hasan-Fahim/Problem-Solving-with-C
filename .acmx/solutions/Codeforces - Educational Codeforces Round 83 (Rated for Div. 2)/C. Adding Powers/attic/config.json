@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 83 (Rated for Div. 2)\\C. Adding Powers\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Adding Powers",
+      "group": "Codeforces - Educational Codeforces Round 83 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1312/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

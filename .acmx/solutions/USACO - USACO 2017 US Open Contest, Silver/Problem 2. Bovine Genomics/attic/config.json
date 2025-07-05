@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2017 US Open Contest, Silver\\Problem 2. Bovine Genomics\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 2. Bovine Genomics",
+      "group": "USACO - USACO 2017 US Open Contest, Silver",
+      "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=739",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

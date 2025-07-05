@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Panasonic Programming Contest 2023（AtCoder Beginner Contest 326）\\A - 2UP3DOWN\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - 2UP3DOWN",
+      "group": "AtCoder - Panasonic Programming Contest 2023（AtCoder Beginner Contest 326）",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

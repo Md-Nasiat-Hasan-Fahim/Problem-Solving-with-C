@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 808 (Div. 1)\\A. Doremy's IQ\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Doremy's IQ",
+      "group": "Codeforces - Codeforces Round 808 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1707/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

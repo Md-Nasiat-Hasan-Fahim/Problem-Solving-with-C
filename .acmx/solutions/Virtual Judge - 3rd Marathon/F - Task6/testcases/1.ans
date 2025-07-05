@@ -1,0 +1,1 @@
+s.erase(val); //Erases an integer val from the set s.

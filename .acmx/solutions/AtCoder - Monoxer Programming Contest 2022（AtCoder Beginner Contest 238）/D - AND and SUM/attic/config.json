@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Monoxer Programming Contest 2022（AtCoder Beginner Contest 238）\\D - AND and SUM\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - AND and SUM",
+      "group": "AtCoder - Monoxer Programming Contest 2022（AtCoder Beginner Contest 238）",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

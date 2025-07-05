@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Beginner - II\\E - Sort! Sort!! and Sort!!!\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Sort! Sort!! and Sort!!!",
+      "group": "Virtual Judge - Beginner - II",
+      "url": "https://vjudge.net/contest/545272?fbclid=IwAR1zI6SKv4aidtlzP7G4jx1_pB9e2qiToCZ8iDhpStMEpXL0ddMLdNVigqo#problem/E",
+      "memoryLimit": 1024,
+      "timeLimit": 3000
+    }
+  }
+}

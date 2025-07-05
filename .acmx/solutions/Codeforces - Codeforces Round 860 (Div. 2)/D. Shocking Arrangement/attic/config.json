@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 860 (Div. 2)\\D. Shocking Arrangement\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Shocking Arrangement",
+      "group": "Codeforces - Codeforces Round 860 (Div. 2)",
+      "url": "https://codeforces.com/contest/1798/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

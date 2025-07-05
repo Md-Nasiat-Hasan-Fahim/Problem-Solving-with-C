@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Divisible Group Sums\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Divisible Group Sums",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/divisible-group-sums",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

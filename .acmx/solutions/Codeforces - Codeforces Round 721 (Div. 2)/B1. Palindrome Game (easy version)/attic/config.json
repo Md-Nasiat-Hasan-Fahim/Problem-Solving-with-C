@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 721 (Div. 2)\\B1. Palindrome Game (easy version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B1. Palindrome Game (easy version)",
+      "group": "Codeforces - Codeforces Round 721 (Div. 2)",
+      "url": "https://codeforces.com/contest/1527/problem/B1",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

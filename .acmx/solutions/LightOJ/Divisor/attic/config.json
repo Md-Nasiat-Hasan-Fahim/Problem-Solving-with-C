@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Divisor\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Divisor",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/dimik-divisor",
+      "memoryLimit": 128,
+      "timeLimit": 1000
+    }
+  }
+}

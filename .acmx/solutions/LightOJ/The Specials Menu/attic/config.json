@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\The Specials Menu\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "The Specials Menu",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/the-specials-menu",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

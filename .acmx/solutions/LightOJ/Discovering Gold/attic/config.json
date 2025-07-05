@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Discovering Gold\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Discovering Gold",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/discovering-gold",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

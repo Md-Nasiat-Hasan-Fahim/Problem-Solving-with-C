@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Even Odd 2\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Even Odd 2",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/dimik-even-odd-2",
+      "memoryLimit": 128,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 964 (Div. 4)\\D. Slavic's Exam\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Slavic's Exam",
+      "group": "Codeforces - Codeforces Round 964 (Div. 4)",
+      "url": "https://codeforces.com/problemset/problem/1999/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2018 December Contest, Bronze\\Problem 2. The Bucket List\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 2. The Bucket List",
+      "group": "USACO - USACO 2018 December Contest, Bronze",
+      "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=856",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

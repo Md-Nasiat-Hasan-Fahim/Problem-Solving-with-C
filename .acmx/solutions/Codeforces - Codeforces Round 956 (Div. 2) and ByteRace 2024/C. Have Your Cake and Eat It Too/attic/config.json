@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 956 (Div. 2) and ByteRace 2024\\C. Have Your Cake and Eat It Too\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Have Your Cake and Eat It Too",
+      "group": "Codeforces - Codeforces Round 956 (Div. 2) and ByteRace 2024",
+      "url": "https://codeforces.com/problemset/problem/1983/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

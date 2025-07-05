@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 836 (Div. 2)\\D. Range = √Sum\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Range = √Sum",
+      "group": "Codeforces - Codeforces Round 836 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1758/D",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

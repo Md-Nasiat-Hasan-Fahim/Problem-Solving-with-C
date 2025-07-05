@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 6 (Tree)\\G - Frequent values\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G - Frequent values",
+      "group": "Virtual Judge - Marathon 6 (Tree)",
+      "url": "https://vjudge.net/contest/608252?fbclid=IwAR0e_bwakamzv2q9docR7EHDaztYO78kpTVvx-6_gIKGL-bFfr4GcHf2bqI#problem/G",
+      "memoryLimit": 1024,
+      "timeLimit": 3000
+    }
+  }
+}

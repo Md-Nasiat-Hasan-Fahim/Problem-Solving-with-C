@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - 3rd Marathon\\C - Task3\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C - Task3",
+      "group": "Virtual Judge - 3rd Marathon",
+      "url": "https://vjudge.net/contest/593332#problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

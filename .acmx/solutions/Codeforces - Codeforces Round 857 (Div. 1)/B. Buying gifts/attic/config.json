@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 857 (Div. 1)\\B. Buying gifts\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Buying gifts",
+      "group": "Codeforces - Codeforces Round 857 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1801/B",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

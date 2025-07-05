@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Coin Change (I)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Coin Change (I)",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/coin-change-i",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

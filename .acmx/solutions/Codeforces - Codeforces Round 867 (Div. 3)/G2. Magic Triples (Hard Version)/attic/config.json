@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 867 (Div. 3)\\G2. Magic Triples (Hard Version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G2. Magic Triples (Hard Version)",
+      "group": "Codeforces - Codeforces Round 867 (Div. 3)",
+      "url": "https://codeforces.com/contest/1822/problem/G2",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

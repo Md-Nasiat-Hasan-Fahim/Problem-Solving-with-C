@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)\\C. Complementary XOR\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Complementary XOR",
+      "group": "Codeforces - CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",
+      "url": "https://codeforces.com/problemset/problem/1750/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

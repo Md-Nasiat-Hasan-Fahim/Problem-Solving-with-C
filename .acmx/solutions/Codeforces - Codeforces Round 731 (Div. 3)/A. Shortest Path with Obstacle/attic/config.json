@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 731 (Div. 3)\\A. Shortest Path with Obstacle\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Shortest Path with Obstacle",
+      "group": "Codeforces - Codeforces Round 731 (Div. 3)",
+      "url": "https://codeforces.com/contest/1547/problem/A",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

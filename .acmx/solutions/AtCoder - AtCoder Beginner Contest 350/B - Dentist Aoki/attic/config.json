@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 350\\B - Dentist Aoki\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B - Dentist Aoki",
+      "group": "AtCoder - AtCoder Beginner Contest 350",
+      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_b",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

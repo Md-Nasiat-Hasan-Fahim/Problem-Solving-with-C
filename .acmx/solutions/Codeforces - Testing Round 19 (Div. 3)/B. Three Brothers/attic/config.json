@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Testing Round 19 (Div. 3)\\B. Three Brothers\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Three Brothers",
+      "group": "Codeforces - Testing Round 19 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/2010/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

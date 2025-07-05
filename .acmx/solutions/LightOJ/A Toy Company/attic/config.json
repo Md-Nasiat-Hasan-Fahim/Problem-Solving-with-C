@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\A Toy Company\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A Toy Company",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/a-toy-company",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

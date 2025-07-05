@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 148 (Rated for Div. 2)\\E. Combinatorics Problem\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Combinatorics Problem",
+      "group": "Codeforces - Educational Codeforces Round 148 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1832/E",
+      "memoryLimit": 1024,
+      "timeLimit": 4000
+    }
+  }
+}

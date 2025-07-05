@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 739 (Div. 3)\\F1. Nearest Beautiful Number (easy version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F1. Nearest Beautiful Number (easy version)",
+      "group": "Codeforces - Codeforces Round 739 (Div. 3)",
+      "url": "https://codeforces.com/contest/1560/problem/F1",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

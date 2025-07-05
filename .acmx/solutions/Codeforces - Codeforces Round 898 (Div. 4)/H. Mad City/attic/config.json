@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 898 (Div. 4)\\H. Mad City\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H. Mad City",
+      "group": "Codeforces - Codeforces Round 898 (Div. 4)",
+      "url": "https://codeforces.com/problemset/problem/1873/H",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

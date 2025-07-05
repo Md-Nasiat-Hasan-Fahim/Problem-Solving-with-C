@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 641 (Div. 1)\\A. Orac and LCM\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Orac and LCM",
+      "group": "Codeforces - Codeforces Round 641 (Div. 1)",
+      "url": "https://codeforces.com/contest/1349/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

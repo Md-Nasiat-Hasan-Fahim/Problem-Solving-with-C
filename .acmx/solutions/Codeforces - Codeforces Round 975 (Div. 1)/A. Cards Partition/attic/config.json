@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 975 (Div. 1)\\A. Cards Partition\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Cards Partition",
+      "group": "Codeforces - Codeforces Round 975 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/2018/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

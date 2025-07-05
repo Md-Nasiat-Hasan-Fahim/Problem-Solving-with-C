@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 957 (Div. 3)\\E. Novice's Mistake\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Novice's Mistake",
+      "group": "Codeforces - Codeforces Round 957 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1992/E",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

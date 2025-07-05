@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)\\B. Cake Assembly Line\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Cake Assembly Line",
+      "group": "Codeforces - Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
+      "url": "https://codeforces.com/contest/1786/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

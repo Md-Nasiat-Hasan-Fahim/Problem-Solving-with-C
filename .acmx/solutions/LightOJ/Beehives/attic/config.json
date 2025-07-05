@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Beehives\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Beehives",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/beehives",
+      "memoryLimit": 64,
+      "timeLimit": 4000
+    }
+  }
+}

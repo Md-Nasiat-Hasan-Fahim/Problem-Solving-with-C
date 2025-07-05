@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 350\\A - Past ABCs\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - Past ABCs",
+      "group": "AtCoder - AtCoder Beginner Contest 350",
+      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

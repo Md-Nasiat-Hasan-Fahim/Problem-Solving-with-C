@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 872 (Div. 1)\\B1. LuoTianyi and the Floating Islands (Easy Version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B1. LuoTianyi and the Floating Islands (Easy Version)",
+      "group": "Codeforces - Codeforces Round 872 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1824/B1",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

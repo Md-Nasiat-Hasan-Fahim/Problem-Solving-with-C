@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Denso Create Programming Contest 2022(AtCoder Beginner Contest 239)\\D - Prime Sum Game\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Prime Sum Game",
+      "group": "AtCoder - Denso Create Programming Contest 2022(AtCoder Beginner Contest 239)",
+      "url": "https://atcoder.jp/contests/abc239/tasks/abc239_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

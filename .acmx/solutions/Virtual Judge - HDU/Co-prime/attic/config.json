@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - HDU\\Co-prime\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Co-prime",
+      "group": "Virtual Judge - HDU",
+      "url": "https://vjudge.net/problem/HDU-4135",
+      "memoryLimit": 32,
+      "timeLimit": 1000
+    }
+  }
+}

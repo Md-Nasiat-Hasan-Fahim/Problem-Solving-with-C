@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Beginner - II\\H - Palindromic Numbers (II)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H - Palindromic Numbers (II)",
+      "group": "Virtual Judge - Beginner - II",
+      "url": "https://vjudge.net/contest/545272?fbclid=IwAR1zI6SKv4aidtlzP7G4jx1_pB9e2qiToCZ8iDhpStMEpXL0ddMLdNVigqo#problem/H",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

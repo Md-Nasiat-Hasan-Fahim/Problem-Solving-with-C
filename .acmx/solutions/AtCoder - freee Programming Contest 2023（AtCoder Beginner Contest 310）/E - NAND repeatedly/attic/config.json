@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - freee Programming Contest 2023（AtCoder Beginner Contest 310）\\E - NAND repeatedly\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - NAND repeatedly",
+      "group": "AtCoder - freee Programming Contest 2023（AtCoder Beginner Contest 310）",
+      "url": "https://atcoder.jp/contests/abc310/tasks/abc310_e",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

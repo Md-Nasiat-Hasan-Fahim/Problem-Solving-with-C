@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2022 February Contest, Bronze\\Problem 1. Sleeping in Class\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 1. Sleeping in Class",
+      "group": "USACO - USACO 2022 February Contest, Bronze",
+      "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1203",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

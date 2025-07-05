@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309)\\D - Add One Edge\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Add One Edge",
+      "group": "AtCoder - Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309)",
+      "url": "https://atcoder.jp/contests/abc309/tasks/abc309_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Knights on a Chessboard\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Knights on a Chessboard",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/knights-on-chessboard",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

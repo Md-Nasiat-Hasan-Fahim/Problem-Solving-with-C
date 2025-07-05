@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 241（Sponsored by Panasonic）\\E - Putting Candies\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Putting Candies",
+      "group": "AtCoder - AtCoder Beginner Contest 241（Sponsored by Panasonic）",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_e",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

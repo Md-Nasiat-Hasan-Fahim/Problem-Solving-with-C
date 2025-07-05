@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Generating Palindromes\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Generating Palindromes",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/generating-palindromes",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

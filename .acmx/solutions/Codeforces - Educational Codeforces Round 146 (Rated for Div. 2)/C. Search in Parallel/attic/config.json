@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 146 (Rated for Div. 2)\\C. Search in Parallel\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Search in Parallel",
+      "group": "Codeforces - Educational Codeforces Round 146 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1814/C",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

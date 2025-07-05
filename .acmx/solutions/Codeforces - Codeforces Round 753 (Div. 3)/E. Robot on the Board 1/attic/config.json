@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 753 (Div. 3)\\E. Robot on the Board 1\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Robot on the Board 1",
+      "group": "Codeforces - Codeforces Round 753 (Div. 3)",
+      "url": "https://codeforces.com/contest/1607/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

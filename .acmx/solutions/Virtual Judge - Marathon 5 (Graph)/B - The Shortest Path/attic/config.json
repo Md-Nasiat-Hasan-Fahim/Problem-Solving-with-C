@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 5 (Graph)\\B - The Shortest Path\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B - The Shortest Path",
+      "group": "Virtual Judge - Marathon 5 (Graph)",
+      "url": "https://vjudge.net/contest/604797?fbclid=IwAR3sqjidXLxQi6URrRLtc-dL1T-1aMBnBlCSiQym9zcIEbe23PEApMOLC6I#problem/B",
+      "memoryLimit": 1536,
+      "timeLimit": 1500
+    }
+  }
+}

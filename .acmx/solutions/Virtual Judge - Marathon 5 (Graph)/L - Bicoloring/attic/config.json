@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 5 (Graph)\\L - Bicoloring\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "L - Bicoloring",
+      "group": "Virtual Judge - Marathon 5 (Graph)",
+      "url": "https://vjudge.net/contest/604797#problem/L",
+      "memoryLimit": 1024,
+      "timeLimit": 3000
+    }
+  }
+}

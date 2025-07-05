@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 242\\D - ABC Transform\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - ABC Transform",
+      "group": "AtCoder - AtCoder Beginner Contest 242",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 841 (Div. 2) and Divide by Zero 2022\\C. Even Subarrays\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Even Subarrays",
+      "group": "Codeforces - Codeforces Round 841 (Div. 2) and Divide by Zero 2022",
+      "url": "https://codeforces.com/problemset/problem/1731/C",
+      "memoryLimit": 256,
+      "timeLimit": 2500
+    }
+  }
+}

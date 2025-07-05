@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 237\\E - Skiing\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Skiing",
+      "group": "AtCoder - AtCoder Beginner Contest 237",
+      "url": "https://atcoder.jp/contests/abc237/tasks/abc237_e",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

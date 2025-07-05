@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\An Easy LCS\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "An Easy LCS",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/an-easy-lcs",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

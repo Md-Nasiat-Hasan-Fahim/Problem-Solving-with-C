@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 663 (Div. 2)\\C. Cyclic Permutations\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Cyclic Permutations",
+      "group": "Codeforces - Codeforces Round 663 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1391/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

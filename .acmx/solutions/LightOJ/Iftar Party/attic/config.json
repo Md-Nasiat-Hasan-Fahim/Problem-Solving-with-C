@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Iftar Party\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Iftar Party",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/iftar-party",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 4 (STL)\\E - Radio Station\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Radio Station",
+      "group": "Virtual Judge - Marathon 4 (STL)",
+      "url": "https://vjudge.net/contest/601622?fbclid=IwAR3ZGbhvkvONyuwzydf1gq037aeZ4OmywmFJl64z4-QH3Vu0Q20miuHuKho#problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

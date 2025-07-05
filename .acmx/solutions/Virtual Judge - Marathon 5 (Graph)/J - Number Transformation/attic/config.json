@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 5 (Graph)\\J - Number Transformation\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "J - Number Transformation",
+      "group": "Virtual Judge - Marathon 5 (Graph)",
+      "url": "https://vjudge.net/contest/604797#problem/J",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

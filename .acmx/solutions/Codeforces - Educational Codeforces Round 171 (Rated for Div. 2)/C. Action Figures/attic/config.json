@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 171 (Rated for Div. 2)\\C. Action Figures\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Action Figures",
+      "group": "Codeforces - Educational Codeforces Round 171 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/2026/C",
+      "memoryLimit": 512,
+      "timeLimit": 2500
+    }
+  }
+}

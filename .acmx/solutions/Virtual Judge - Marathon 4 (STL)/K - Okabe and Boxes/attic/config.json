@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 4 (STL)\\K - Okabe and Boxes\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "K - Okabe and Boxes",
+      "group": "Virtual Judge - Marathon 4 (STL)",
+      "url": "https://vjudge.net/contest/601622?fbclid=IwAR3ZGbhvkvONyuwzydf1gq037aeZ4OmywmFJl64z4-QH3Vu0Q20miuHuKho#problem/K",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 240\\F - Sum Sum Max\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F - Sum Sum Max",
+      "group": "AtCoder - AtCoder Beginner Contest 240",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_f",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

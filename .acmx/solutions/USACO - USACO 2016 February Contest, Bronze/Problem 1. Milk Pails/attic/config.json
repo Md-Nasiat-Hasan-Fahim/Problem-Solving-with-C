@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2016 February Contest, Bronze\\Problem 1. Milk Pails\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 1. Milk Pails",
+      "group": "USACO - USACO 2016 February Contest, Bronze",
+      "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=615",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

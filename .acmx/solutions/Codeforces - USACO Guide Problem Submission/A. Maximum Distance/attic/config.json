@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - USACO Guide Problem Submission\\A. Maximum Distance\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Maximum Distance",
+      "group": "Codeforces - USACO Guide Problem Submission",
+      "url": "https://codeforces.com/gym/102951/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

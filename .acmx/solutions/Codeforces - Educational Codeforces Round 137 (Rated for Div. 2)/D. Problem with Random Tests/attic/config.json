@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 137 (Rated for Div. 2)\\D. Problem with Random Tests\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Problem with Random Tests",
+      "group": "Codeforces - Educational Codeforces Round 137 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1743/D",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

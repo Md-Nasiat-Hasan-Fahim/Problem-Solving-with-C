@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2020 US Open Contest, Bronze\\Problem 3. Cowntact Tracing\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 3. Cowntact Tracing",
+      "group": "USACO - USACO 2020 US Open Contest, Bronze",
+      "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1037",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 110 (Rated for Div. 2)\\C. Unstable String\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Unstable String",
+      "group": "Codeforces - Educational Codeforces Round 110 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1535/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

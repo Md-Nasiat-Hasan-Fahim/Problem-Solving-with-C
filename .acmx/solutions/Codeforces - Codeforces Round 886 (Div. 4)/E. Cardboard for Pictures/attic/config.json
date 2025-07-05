@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 886 (Div. 4)\\E. Cardboard for Pictures\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Cardboard for Pictures",
+      "group": "Codeforces - Codeforces Round 886 (Div. 4)",
+      "url": "https://codeforces.com/contest/1850/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

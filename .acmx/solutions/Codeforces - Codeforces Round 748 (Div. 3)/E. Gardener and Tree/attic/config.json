@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 748 (Div. 3)\\E. Gardener and Tree\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Gardener and Tree",
+      "group": "Codeforces - Codeforces Round 748 (Div. 3)",
+      "url": "https://codeforces.com/contest/1593/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

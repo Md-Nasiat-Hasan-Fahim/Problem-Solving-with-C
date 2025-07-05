@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 721 (Div. 2)\\C. Sequence Pair Weight\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Sequence Pair Weight",
+      "group": "Codeforces - Codeforces Round 721 (Div. 2)",
+      "url": "https://codeforces.com/contest/1527/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

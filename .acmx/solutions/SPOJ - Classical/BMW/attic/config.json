@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\SPOJ - Classical\\BMW\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "BMW",
+      "group": "SPOJ - Classical",
+      "url": "https://www.spoj.com/problems/MARYBMW/",
+      "memoryLimit": 1536,
+      "timeLimit": 500
+    }
+  }
+}

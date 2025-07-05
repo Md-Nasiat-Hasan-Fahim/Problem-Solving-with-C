@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 629 (Div. 3)\\B. K-th Beautiful String\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. K-th Beautiful String",
+      "group": "Codeforces - Codeforces Round 629 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1328/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\USACO - USACO 2016 December Contest, Bronze\\Problem 3. The Cow-Signal\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 3. The Cow-Signal",
+      "group": "USACO - USACO 2016 December Contest, Bronze",
+      "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=665",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2)\\D. Explorer Space\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Explorer Space",
+      "group": "Codeforces - Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contest/1517/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

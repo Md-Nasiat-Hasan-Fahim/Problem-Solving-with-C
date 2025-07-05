@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 109 (Div. 1)\\B. Colliders\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Colliders",
+      "group": "Codeforces - Codeforces Round 109 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/154/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

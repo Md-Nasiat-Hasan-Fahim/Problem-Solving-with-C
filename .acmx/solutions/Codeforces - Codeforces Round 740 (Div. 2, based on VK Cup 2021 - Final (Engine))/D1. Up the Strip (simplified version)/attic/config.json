@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 740 (Div. 2, based on VK Cup 2021 - Final (Engine))\\D1. Up the Strip (simplified version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D1. Up the Strip (simplified version)",
+      "group": "Codeforces - Codeforces Round 740 (Div. 2, based on VK Cup 2021 - Final (Engine))",
+      "url": "https://codeforces.com/contest/1561/problem/D1",
+      "memoryLimit": 128,
+      "timeLimit": 6000
+    }
+  }
+}

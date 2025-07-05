@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 4 (STL)\\G - Minimum Stocks\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G - Minimum Stocks",
+      "group": "Virtual Judge - Marathon 4 (STL)",
+      "url": "https://vjudge.net/contest/601622?fbclid=IwAR3ZGbhvkvONyuwzydf1gq037aeZ4OmywmFJl64z4-QH3Vu0Q20miuHuKho#problem/G",
+      "memoryLimit": 1536,
+      "timeLimit": 500
+    }
+  }
+}

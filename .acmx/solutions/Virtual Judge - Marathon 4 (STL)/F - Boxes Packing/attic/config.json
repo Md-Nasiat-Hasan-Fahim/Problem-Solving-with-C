@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 4 (STL)\\F - Boxes Packing\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F - Boxes Packing",
+      "group": "Virtual Judge - Marathon 4 (STL)",
+      "url": "https://vjudge.net/contest/601622?fbclid=IwAR3ZGbhvkvONyuwzydf1gq037aeZ4OmywmFJl64z4-QH3Vu0Q20miuHuKho#problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

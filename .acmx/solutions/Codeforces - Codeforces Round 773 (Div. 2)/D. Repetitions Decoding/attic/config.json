@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 773 (Div. 2)\\D. Repetitions Decoding\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Repetitions Decoding",
+      "group": "Codeforces - Codeforces Round 773 (Div. 2)",
+      "url": "https://codeforces.com/contest/1642/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

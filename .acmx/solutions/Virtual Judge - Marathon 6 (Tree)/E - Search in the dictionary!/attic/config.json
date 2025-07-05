@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 6 (Tree)\\E - Search in the dictionary!\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Search in the dictionary!",
+      "group": "Virtual Judge - Marathon 6 (Tree)",
+      "url": "https://vjudge.net/contest/608252#problem/E",
+      "memoryLimit": 1536,
+      "timeLimit": 1000
+    }
+  }
+}

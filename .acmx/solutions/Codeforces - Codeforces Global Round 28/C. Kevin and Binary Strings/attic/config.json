@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Global Round 28\\C. Kevin and Binary Strings\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Kevin and Binary Strings",
+      "group": "Codeforces - Codeforces Global Round 28",
+      "url": "https://codeforces.com/problemset/problem/2048/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

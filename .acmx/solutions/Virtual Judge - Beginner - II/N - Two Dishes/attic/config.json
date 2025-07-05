@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Beginner - II\\N - Two Dishes\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "N - Two Dishes",
+      "group": "Virtual Judge - Beginner - II",
+      "url": "https://vjudge.net/contest/545272?fbclid=IwAR1zI6SKv4aidtlzP7G4jx1_pB9e2qiToCZ8iDhpStMEpXL0ddMLdNVigqo#problem/N",
+      "memoryLimit": 1024,
+      "timeLimit": 500
+    }
+  }
+}

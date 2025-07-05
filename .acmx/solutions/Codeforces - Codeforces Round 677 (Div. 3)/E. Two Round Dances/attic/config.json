@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 677 (Div. 3)\\E. Two Round Dances\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Two Round Dances",
+      "group": "Codeforces - Codeforces Round 677 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1433/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

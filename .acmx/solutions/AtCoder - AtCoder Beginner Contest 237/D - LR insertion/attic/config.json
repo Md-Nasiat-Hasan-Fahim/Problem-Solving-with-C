@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 237\\D - LR insertion\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - LR insertion",
+      "group": "AtCoder - AtCoder Beginner Contest 237",
+      "url": "https://atcoder.jp/contests/abc237/tasks/abc237_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 117 (Rated for Div. 2)\\D. X-Magic Pair\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. X-Magic Pair",
+      "group": "Codeforces - Educational Codeforces Round 117 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1612/problem/D",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

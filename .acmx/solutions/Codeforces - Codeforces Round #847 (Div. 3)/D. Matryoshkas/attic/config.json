@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round #847 (Div. 3)\\D. Matryoshkas\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Matryoshkas",
+      "group": "Codeforces - Codeforces Round #847 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1790/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

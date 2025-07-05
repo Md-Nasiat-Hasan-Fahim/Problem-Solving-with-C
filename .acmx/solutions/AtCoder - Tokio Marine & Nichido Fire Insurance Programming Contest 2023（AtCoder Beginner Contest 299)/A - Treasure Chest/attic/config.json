@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299)\\A - Treasure Chest\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - Treasure Chest",
+      "group": "AtCoder - Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299)",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

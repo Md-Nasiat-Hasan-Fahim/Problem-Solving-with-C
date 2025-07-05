@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Technocup 2022 - Elimination Round 3\\D. Yet Another Sorting Problem\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Yet Another Sorting Problem",
+      "group": "Codeforces - Technocup 2022 - Elimination Round 3",
+      "url": "https://codeforces.com/contest/1585/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

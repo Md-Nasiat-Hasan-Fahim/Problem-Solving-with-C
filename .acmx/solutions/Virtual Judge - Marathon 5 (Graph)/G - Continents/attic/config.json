@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Marathon 5 (Graph)\\G - Continents\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G - Continents",
+      "group": "Virtual Judge - Marathon 5 (Graph)",
+      "url": "https://vjudge.net/contest/604797?fbclid=IwAR3sqjidXLxQi6URrRLtc-dL1T-1aMBnBlCSiQym9zcIEbe23PEApMOLC6I#problem/G",
+      "memoryLimit": 1024,
+      "timeLimit": 3000
+    }
+  }
+}

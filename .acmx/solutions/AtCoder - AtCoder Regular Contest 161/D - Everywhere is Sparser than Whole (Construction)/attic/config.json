@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Regular Contest 161\\D - Everywhere is Sparser than Whole (Construction)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Everywhere is Sparser than Whole (Construction)",
+      "group": "AtCoder - AtCoder Regular Contest 161",
+      "url": "https://atcoder.jp/contests/arc161/tasks/arc161_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

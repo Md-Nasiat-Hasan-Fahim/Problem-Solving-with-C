@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 748 (Div. 3)\\D2. Half of Same\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D2. Half of Same",
+      "group": "Codeforces - Codeforces Round 748 (Div. 3)",
+      "url": "https://codeforces.com/contest/1593/problem/D2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - TheForces Round #14 (Cool-Forces)\\B. Random Array\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Random Array",
+      "group": "Codeforces - TheForces Round #14 (Cool-Forces)",
+      "url": "https://codeforces.com/group/XrvsTsJWMb/contest/104386/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

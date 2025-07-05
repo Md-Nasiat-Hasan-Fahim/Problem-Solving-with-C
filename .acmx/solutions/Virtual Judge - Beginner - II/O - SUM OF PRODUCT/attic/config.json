@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - Beginner - II\\O - SUM OF PRODUCT\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "O - SUM OF PRODUCT",
+      "group": "Virtual Judge - Beginner - II",
+      "url": "https://vjudge.net/contest/545272?fbclid=IwAR1zI6SKv4aidtlzP7G4jx1_pB9e2qiToCZ8iDhpStMEpXL0ddMLdNVigqo#problem/O",
+      "memoryLimit": 1536,
+      "timeLimit": 1000
+    }
+  }
+}

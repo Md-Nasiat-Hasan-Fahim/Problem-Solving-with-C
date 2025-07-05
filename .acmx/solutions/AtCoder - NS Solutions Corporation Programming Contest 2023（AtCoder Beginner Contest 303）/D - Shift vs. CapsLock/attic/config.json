@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - NS Solutions Corporation Programming Contest 2023（AtCoder Beginner Contest 303）\\D - Shift vs. CapsLock\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Shift vs. CapsLock",
+      "group": "AtCoder - NS Solutions Corporation Programming Contest 2023（AtCoder Beginner Contest 303）",
+      "url": "https://atcoder.jp/contests/abc303/tasks/abc303_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

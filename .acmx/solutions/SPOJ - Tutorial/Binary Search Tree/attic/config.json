@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\SPOJ - Tutorial\\Binary Search Tree\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Binary Search Tree",
+      "group": "SPOJ - Tutorial",
+      "url": "https://www.spoj.com/problems/SDITSBST/en/",
+      "memoryLimit": 1536,
+      "timeLimit": 1000
+    }
+  }
+}

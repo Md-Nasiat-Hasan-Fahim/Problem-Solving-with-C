@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 313 (Div. 1)\\C. Gerald and Giant Chess\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Gerald and Giant Chess",
+      "group": "Codeforces - Codeforces Round 313 (Div. 1)",
+      "url": "https://codeforces.com/contest/559/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

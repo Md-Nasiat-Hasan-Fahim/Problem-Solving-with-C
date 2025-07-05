@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Toyota Programming Contest 2024#2（AtCoder Beginner Contest 341）\\A - Print 341\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - Print 341",
+      "group": "AtCoder - Toyota Programming Contest 2024#2（AtCoder Beginner Contest 341）",
+      "url": "https://atcoder.jp/contests/abc341/tasks/abc341_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

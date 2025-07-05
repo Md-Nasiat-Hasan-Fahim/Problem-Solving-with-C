@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 127 (Rated for Div. 2)\\C. Dolce Vita\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Dolce Vita",
+      "group": "Codeforces - Educational Codeforces Round 127 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1671/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

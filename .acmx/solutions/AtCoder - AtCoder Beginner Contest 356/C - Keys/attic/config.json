@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 356\\C - Keys\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C - Keys",
+      "group": "AtCoder - AtCoder Beginner Contest 356",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_c",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

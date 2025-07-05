@@ -1,0 +1,2 @@
+set&lt;int&gt;::iterator itr=s.find(val); //Gives the iterator to the element val if it is found otherwise returns s.end() .
+Ex: set&lt;int&gt;::iterator itr=s.find(100); //If 100 is not present then it==s.end().

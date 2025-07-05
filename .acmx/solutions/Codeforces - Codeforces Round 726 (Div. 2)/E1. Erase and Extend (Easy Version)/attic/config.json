@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 726 (Div. 2)\\E1. Erase and Extend (Easy Version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E1. Erase and Extend (Easy Version)",
+      "group": "Codeforces - Codeforces Round 726 (Div. 2)",
+      "url": "https://codeforces.com/contest/1537/problem/E1",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

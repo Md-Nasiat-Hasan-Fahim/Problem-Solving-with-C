@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - 2nd Marathon\\H - Task2_8\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H - Task2_8",
+      "group": "Virtual Judge - 2nd Marathon",
+      "url": "https://vjudge.net/contest/590159#problem/H",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

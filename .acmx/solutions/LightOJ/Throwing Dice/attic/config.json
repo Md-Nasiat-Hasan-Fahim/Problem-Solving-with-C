@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Throwing Dice\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Throwing Dice",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/throwing-dice",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

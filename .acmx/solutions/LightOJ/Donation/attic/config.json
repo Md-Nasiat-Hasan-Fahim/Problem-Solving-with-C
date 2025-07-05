@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Donation\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Donation",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/donation",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 886 (Div. 4)\\H. The Third Letter\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H. The Third Letter",
+      "group": "Codeforces - Codeforces Round 886 (Div. 4)",
+      "url": "https://codeforces.com/problemset/problem/1850/H",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

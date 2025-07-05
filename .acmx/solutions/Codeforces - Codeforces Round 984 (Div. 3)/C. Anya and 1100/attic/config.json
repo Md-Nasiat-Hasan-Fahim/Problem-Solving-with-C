@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 984 (Div. 3)\\C. Anya and 1100\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Anya and 1100",
+      "group": "Codeforces - Codeforces Round 984 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/2036/C",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

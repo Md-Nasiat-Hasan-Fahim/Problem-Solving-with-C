@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Regular Contest 161\\B - Exactly Three Bits\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B - Exactly Three Bits",
+      "group": "AtCoder - AtCoder Regular Contest 161",
+      "url": "https://atcoder.jp/contests/arc161/tasks/arc161_b",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

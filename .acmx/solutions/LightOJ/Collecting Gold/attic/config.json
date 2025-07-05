@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Collecting Gold\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Collecting Gold",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/collecting-gold",
+      "memoryLimit": 64,
+      "timeLimit": 2000
+    }
+  }
+}

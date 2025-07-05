@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 100 (Rated for Div. 2)\\B. Find The Array\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Find The Array",
+      "group": "Codeforces - Educational Codeforces Round 100 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1463/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

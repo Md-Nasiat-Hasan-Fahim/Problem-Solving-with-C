@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 748 (Div. 3)\\C. Save More Mice\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Save More Mice",
+      "group": "Codeforces - Codeforces Round 748 (Div. 3)",
+      "url": "https://codeforces.com/contest/1593/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

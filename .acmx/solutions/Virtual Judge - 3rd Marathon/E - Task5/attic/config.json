@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Virtual Judge - 3rd Marathon\\E - Task5\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Task5",
+      "group": "Virtual Judge - 3rd Marathon",
+      "url": "https://vjudge.net/contest/593332#problem/E",
+      "memoryLimit": 1024,
+      "timeLimit": 1000
+    }
+  }
+}

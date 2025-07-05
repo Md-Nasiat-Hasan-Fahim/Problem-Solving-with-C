@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309)\\E - Family and Insurance\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Family and Insurance",
+      "group": "AtCoder - Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309)",
+      "url": "https://atcoder.jp/contests/abc309/tasks/abc309_e",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

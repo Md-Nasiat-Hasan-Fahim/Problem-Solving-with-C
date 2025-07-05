@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 952 (Div. 4)\\H1. Maximize the Largest Component (Easy Version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H1. Maximize the Largest Component (Easy Version)",
+      "group": "Codeforces - Codeforces Round 952 (Div. 4)",
+      "url": "https://codeforces.com/problemset/problem/1985/H1",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Library Checker\\Queue Operate All Composite\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Queue Operate All Composite",
+      "group": "Library Checker",
+      "url": "https://judge.yosupo.jp/problem/queue_operate_all_composite",
+      "memoryLimit": 1024,
+      "timeLimit": 5000
+    }
+  }
+}

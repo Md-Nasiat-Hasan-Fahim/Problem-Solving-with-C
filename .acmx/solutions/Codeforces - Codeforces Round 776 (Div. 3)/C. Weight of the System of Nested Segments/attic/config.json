@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 776 (Div. 3)\\C. Weight of the System of Nested Segments\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Weight of the System of Nested Segments",
+      "group": "Codeforces - Codeforces Round 776 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1650/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

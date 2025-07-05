@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\One Way Roads\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "One Way Roads",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/one-way-roads",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

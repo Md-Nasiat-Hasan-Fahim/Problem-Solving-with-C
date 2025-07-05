@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)\\C. Trapped in the Witch's Labyrinth\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Trapped in the Witch's Labyrinth",
+      "group": "Codeforces - Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/2034/C",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

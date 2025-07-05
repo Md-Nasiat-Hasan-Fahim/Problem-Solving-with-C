@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 145 (Rated for Div. 2)\\C. Sum on Subarrays\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Sum on Subarrays",
+      "group": "Codeforces - Educational Codeforces Round 145 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1809/C",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\LightOJ\\Bi-shoe and Phi-shoe\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Bi-shoe and Phi-shoe",
+      "group": "LightOJ",
+      "url": "https://lightoj.com/problem/bi-shoe-and-phi-shoe",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

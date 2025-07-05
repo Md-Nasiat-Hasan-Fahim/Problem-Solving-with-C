@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Educational Codeforces Round 142 (Rated for Div. 2)\\B. Stand-up Comedian\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Stand-up Comedian",
+      "group": "Codeforces - Educational Codeforces Round 142 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1792/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

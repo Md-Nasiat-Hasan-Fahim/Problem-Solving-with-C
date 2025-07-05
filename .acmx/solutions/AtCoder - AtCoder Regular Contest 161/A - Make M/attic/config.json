@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Regular Contest 161\\A - Make M\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A - Make M",
+      "group": "AtCoder - AtCoder Regular Contest 161",
+      "url": "https://atcoder.jp/contests/arc161/tasks/arc161_a",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

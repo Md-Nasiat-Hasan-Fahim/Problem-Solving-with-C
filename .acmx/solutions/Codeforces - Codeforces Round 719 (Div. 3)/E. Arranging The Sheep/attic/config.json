@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 719 (Div. 3)\\E. Arranging The Sheep\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Arranging The Sheep",
+      "group": "Codeforces - Codeforces Round 719 (Div. 3)",
+      "url": "https://codeforces.com/contest/1520/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

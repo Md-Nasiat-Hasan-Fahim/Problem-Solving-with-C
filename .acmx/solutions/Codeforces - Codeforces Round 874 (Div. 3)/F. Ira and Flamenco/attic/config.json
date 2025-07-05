@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round 874 (Div. 3)\\F. Ira and Flamenco\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Ira and Flamenco",
+      "group": "Codeforces - Codeforces Round 874 (Div. 3)",
+      "url": "https://codeforces.com/contest/1833/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

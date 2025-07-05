@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\AtCoder - AtCoder Beginner Contest 313\\C - Approximate Equalization 2\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C - Approximate Equalization 2",
+      "group": "AtCoder - AtCoder Beginner Contest 313",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_c",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

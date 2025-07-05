@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\USER\\.acmx\\solutions\\Codeforces - Codeforces Round  834 (Div. 3)\\F. All Possible Digits\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. All Possible Digits",
+      "group": "Codeforces - Codeforces Round  834 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1759/F",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}
